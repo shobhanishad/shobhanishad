@@ -1,75 +1,141 @@
-# 👋 Hi, I'm Shobha Nishad
+# 👋 Hello, I'm Shobha Nishad
 
-🎯 **Full Stack Developer** | 💻 Laravel, PHP, JavaScript, MySQL | 🚀 Building Scalable Web Solutions
+🎯 **Full Stack Developer** | 💻 Laravel, PHP, MySQL, JavaScript | 🌐 Building Scalable Web Applications
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate Full Stack Developer with a strong foundation in backend and frontend technologies. With over 3 years of professional experience, I’ve successfully delivered end-to-end solutions in CRM systems, eCommerce platforms, ERPs, APIs, and automation tools.
+I’m a dedicated Full Stack Developer with over **3 years of experience** in building modern, secure, and user-friendly web applications. I specialize in **Laravel**, **REST APIs**, and **end-to-end system development** – from backend logic to frontend design.
 
-- 🔧 Skilled in Laravel, PHP, MySQL, JavaScript, Bootstrap, and RESTful APIs
-- 🧩 Experience with integrations like Razorpay, PhonePe, WhatsApp APIs
-- 👥 Strong team leader and mentor with real-world project management experience
-- 📦 Proficient in Git, VS Code, and modern deployment workflows
+- ✅ Strong problem-solving and project management skills
+- 🔗 Integrated various third-party APIs like WhatsApp, Razorpay, PhonePe, and more
+- 🌍 Delivered real-world software for eCommerce, HRM, CRM, Coupon Systems, and Messaging Platforms
+- 👥 Worked with both small teams and large client-based projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** PHP, JavaScript, HTML5, CSS3  
-**Frameworks:** Laravel, React JS, Bootstrap, WordPress  
-**Tools:** Git, VS Code, XAMPP  
+**Languages:** PHP, JavaScript, HTML, CSS  
+**Frameworks & CMS:** Laravel, React JS, WordPress, Bootstrap  
 **Databases:** MySQL, SQL Server  
-**APIs/Integrations:** Razorpay, PhonePe, WhatsApp, PayPal, RESTful APIs
+**Tools:** Git, VS Code, XAMPP, Postman  
+**APIs & Integrations:** Razorpay, PhonePe, WhatsApp API, PayPal, RESTful APIs
 
 ---
 
-## 🧩 Projects Highlights
+## 💼 Professional Experience
 
-### 🔹 WhatsApp-Based Messaging Platform
-- Bulk messaging with media support
-- Node.js integration with Laravel for performance
-- Real-time dashboard & load-balanced delivery
+### 🔸 Senior Full Stack Developer — *Nixby Media* (Aug 2023 – Present)
+- Built a **WhatsApp automation platform** used for bulk messaging and campaign tracking.
+- Contributed to a **Job Portal** with advanced filters, role management, and third-party job API integrations.
+- Focused on **scalable code structure** and **performance optimization** for high-traffic platforms.
 
-### 🔹 eCommerce Platform for Schools
-- Custom Laravel-based solution
-- Integrated secure payments (Razorpay, PhonePe)
-- Live cart updates, filter-based UI, and secure auth system
-
-### 🔹 In-house CRM & ERP
-- Attendance, leave, tasks, and role-based access
-- Project monitoring & SEO tools integration
-
-### 🔹 Coupon-Based Subscription System
-- Dynamic plan-based coupon validation
-- Auto email invoicing and user dashboards
-
-> See more in my repositories.
+### 🔸 Full Stack Developer — *Softintra Technology Pvt. Ltd* (Jan 2022 – July 2023)
+- Completed **10+ Laravel projects** across multiple industries: HRM, CRM, eCommerce, and more.
+- Integrated **payment systems**, dashboards, REST APIs, and developed admin & user panels.
+- Managed a small development team and provided GitHub collaboration training.
 
 ---
 
-## 📈 Currently At
+## 🚀 Highlight Projects
 
-**Senior Full Stack Developer** @ Nixby Media  
-Working on high-traffic web apps, job portals, and automation systems with API-first architecture.
+### ✅ **1. WhatsApp-Based Messaging Software**
+**Tech:** Laravel, Node.js, MySQL, REST API  
+**Description:**  
+An advanced tool for sending bulk WhatsApp messages (text, images, videos) using multiple numbers while avoiding bans.
+
+- 👨‍💼 Dashboard to track total, failed, and processing messages in real-time
+- 🔁 Auto server restart to prevent downtime
+- 🧩 Contact group management with dynamic batching
+- 🌐 Built third-party APIs for external integration
+
+---
+
+### ✅ **2. eCommerce Platform (School Supplies)**
+**Tech:** Laravel, MySQL, Razorpay, PhonePe, JavaScript, Bootstrap  
+**Description:**  
+A full-featured eCommerce system built from scratch, focused on school-specific items.
+
+- 🛒 Features: Add to Cart, Buy Now, Wishlist
+- 🔎 Filters: Category, school-wise listing without page reload
+- 💳 Payment Gateways: Razorpay & PhonePe
+- 🚚 Order tracking & shipping integration
+- 🔐 Secure user login and authentication
+
+---
+
+### ✅ **3. CRM & ERP System**
+**Tech:** Laravel, PHP, MySQL  
+**Description:**  
+A business tool to manage employees, tasks, attendance, and leave workflows.
+
+- 📅 Attendance tracking with calendar view
+- 📝 Task assignment, status updates, and user roles
+- 🗂️ Leave approval system and record history
+- 📈 Built using MVC structure for maintainability
+
+---
+
+### ✅ **4. Hosting & Domain Manager**
+**Tech:** Laravel, MySQL  
+**Description:**  
+Internal tool to track hosting and domain expiry dates for clients.
+
+- 📢 Auto reminders for renewals
+- 📋 Store hosting credentials securely
+- 🔧 Platform-based hosting tracking and reporting
+
+---
+
+### ✅ **5. Coupon-Based Video Subscription System**
+**Tech:** Laravel, MySQL, HTML, JS, Mail Integration  
+**Description:**  
+A smart coupon management platform linked with subscription plans.
+
+- 🎫 Time-limited and usage-limited coupon codes
+- 📩 Automated email invoices after purchase
+- 📊 User dashboard to view coupon history
+- 🔒 Coupon tied to subscription amount and platform
+
+---
+
+### ✅ **6. Bulk SMS System**
+**Tech:** Laravel, AJAX, REST API  
+**Description:**  
+Tool for sending bulk SMS in batches using different APIs.
+
+- 🔁 API key rotation to prevent throttling
+- 📤 Batch-based sending with delay intervals
+- 📊 Campaign tracking by contact group
+
+---
+
+### ✅ **7. Job Portal System**
+**Tech:** Laravel, MySQL, JavaScript, CSS  
+**Description:**  
+A job board where companies can post jobs and users can search based on interest.
+
+- 🔍 Role-based access: Admin, Company, Candidate
+- 🗃️ Categorized job listings and filters
+- 🕒 Auto-expiry and management of job postings
 
 ---
 
 ## 🎓 Education
 
 **B.Tech in Electronics & Communication**  
-Buddha Institute of Technology, Gorakhpur  
-*2016 – 2020*
+Buddha Institute of Technology, Gorakhpur (2016 – 2020)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shobha-nishad030599)
-- 📧 shobhanishad2122@gmail.com
-- 🌐 [GitHub](https://github.com/your-username)
+- 💼 [LinkedIn – Shobha Nishad](https://www.linkedin.com/in/shobha-nishad030599)
+- ✉️ Email: shobhanishad2122@gmail.com
+- 💻 GitHub: [github.com/your-username](https://github.com/your-username)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> 💬 *"I love solving real-world problems with clean and scalable code."*
