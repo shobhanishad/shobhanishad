@@ -1,141 +1,119 @@
 # 👋 Hello, I'm Shobha Nishad
 
-🎯 **Full Stack Developer** | 💻 Laravel, PHP, MySQL, JavaScript | 🌐 Building Scalable Web Applications
+💼 **Senior Full Stack Developer** | 💻 Laravel, PHP, MySQL, JavaScript | 🛒 eCommerce Automation & Marketplace APIs
 
----
+ 👩‍💻 About Me
 
-## 👩‍💻 About Me
+I'm a Senior Full Stack Developer with over **5 years of experience** building large-scale, secure web applications. I specialize in **Laravel, REST APIs, and eCommerce automation**, from backend architecture and queues to dashboards and desktop applications.
 
-I’m a dedicated Full Stack Developer with over **3 years of experience** in building modern, secure, and user-friendly web applications. I specialize in **Laravel**, **REST APIs**, and **end-to-end system development** – from backend logic to frontend design.
-
-- ✅ Strong problem-solving and project management skills
-- 🔗 Integrated various third-party APIs like WhatsApp, Razorpay, PhonePe, and more
-- 🌍 Delivered real-world software for eCommerce, HRM, CRM, Coupon Systems, and Messaging Platforms
-- 👥 Worked with both small teams and large client-based projects
+- ✅ Integrated **20+ marketplace APIs**: Amazon SP-API, eBay, Shopify, Walmart, TikTok Shop, Temu and more.
+- ⚙️ Built automated **pricing, advertising, and inventory** workflows using queues and cron jobs.
+- 📈 Handle **100k+ records per day** with optimized MySQL queries, indexing, and batch processing.
+- 🌍 Developed real-world software for eCommerce, Warehouse Management (WMS), HRM, CRM, payroll, and messaging platforms.
+- 👥 Led development teams, mentored junior developers, and established code-review practices.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** PHP, JavaScript, HTML, CSS  
-**Frameworks & CMS:** Laravel, React JS, WordPress, Bootstrap  
-**Databases:** MySQL, SQL Server  
-**Tools:** Git, VS Code, XAMPP, Postman  
-**APIs & Integrations:** Razorpay, PhonePe, WhatsApp API, PayPal, RESTful APIs
+- Languages:-  PHP, JavaScript, HTML, CSS
+
+- Frameworks & CMS: Laravel, React.js, Electron.js, jQuery, Bootstrap, WordPress
+
+-Databases: MySQL, MongoDB
+
+-Marketplace APIs:** Amazon SP-API, eBay, Shopify, Walmart, TikTok Shop, Temu, Wayfair, SHEIN, AliExpress, Reverb, Doba, Macy's, Best Buy
+
+-Ads & Integrations:** Amazon Ads, Google Ads, Meta Ads, eBay Ads, Razorpay, PhonePe, PayPal, Twilio, Gupshup, WhatsApp API
+
+-Tools & DevOps:** Git, Linux, Nginx/Apache, VPS & cPanel Deployment, SSH/SFTP, Postman, Composer
+
+Technologies & Tools
+
+💼 Professional Experience
+
+🔹 Senior Software Executive | 5 Core Inc
+
+January 2025 – Present*
+
+- Architected an **in-house multi-marketplace automation platform** using Laravel, MySQL, and queues, connecting 20+ marketplaces for inventory synchronization, order processing, pricing, and returns.
+- Built a **rule-based automated pricing engine** that calculates and pushes prices through marketplace APIs with dry-run mode and duplicate-push prevention.
+- Automated advertising management across Amazon, eBay, Temu, Google, and Meta, including report synchronization, automated bids and budgets, pause rules, and ROI dashboards.
+- Designed a **self-healing Cron Monitor** with retries, duplicate-run locks, and stuck-job detection for 600+ scheduled commands.
+- Delivered Warehouse Management (WMS), inventory, purchasing, customer care, tasks, payroll, and an employee attendance and monitoring system with a Windows/Mac desktop agent.
+
+ 🔹 Part-time Developer | Code Era Technologies Pvt Ltd
+
+January 2025 – May 2025*
+
+- Customized an existing WhatsApp bulk-messaging application according to client requirements.
+- Managed large-scale bulk WhatsApp outreach for a public campaign.
+
+🔹 Senior Full Stack Developer | Nixby Media
+
+August 2023 – December 2024*
+
+- Built a WhatsApp bulk-messaging platform with batching, API-key rotation, rate limiting, and a live delivery dashboard.
+- Developed a job portal with role-based access, advanced filters, and optimized search across thousands of listings.
+- Improved API performance through query optimization, caching, and lazy loading.
+
+🔹 Full Stack Developer | Softintra Technology
+
+January 2021 – July 2023*
+
+- Delivered 10+ production applications, including CRM, HRM, eCommerce, and business management systems.
+- Integrated Razorpay, PhonePe, and PayPal payment gateways.
+- Led development teams, mentored junior developers, and introduced code-review practices.
 
 ---
 
-## 💼 Professional Experience
+🚀 Featured Project: 5Core Operations & eCommerce Automation Platform
 
-### 🔸 Senior Full Stack Developer — *Nixby Media* (Aug 2023 – Present)
-- Built a **WhatsApp automation platform** used for bulk messaging and campaign tracking.
-- Contributed to a **Job Portal** with advanced filters, role management, and third-party job API integrations.
-- Focused on **scalable code structure** and **performance optimization** for high-traffic platforms.
+`Laravel 10` `MySQL` `Queues` `REST APIs` `Electron.js`
 
-### 🔸 Full Stack Developer — *Softintra Technology Pvt. Ltd* (Jan 2022 – July 2023)
-- Completed **10+ Laravel projects** across multiple industries: HRM, CRM, eCommerce, and more.
-- Integrated **payment systems**, dashboards, REST APIs, and developed admin & user panels.
-- Managed a small development team and provided GitHub collaboration training.
+An integrated platform for a multi-channel eCommerce business, covering listings, pricing, advertising, orders, purchasing, warehouse operations, customer care, and team management.
 
----
+| Module                            | What I Built                                                                                                                                        |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛒 **Marketplace Integrations**   | 20+ channels, live price/listing fetch, order import into Shopify through queued jobs, tracking synchronization, and channel-wise sales dashboards. |
+| 💲 **Pricing Engine**             | Rule-based price calculation, lowest-market-price caps, automated API price pushes, coupons, promotions, and competitor price searches.             |
+| 📣 **Ads Automation**             | Amazon Ads bid/budget automation, pause rules, keyword targeting, campaign audits, and eBay, Google, Temu, TikTok, and Walmart dashboards.          |
+| 📊 **Channel Master & Analytics** | Sales, P&L, CVR, ROI, account-health, shipping-health dashboards, claims, and cancelled-order tracking.                                             |
+| 🏭 **Warehouse Management (WMS)** | Warehouse → Zone → Rack → Shelf → Bin, barcode scanning, putaway, picking, locating, and stock movements.                                           |
+| 📦 **Inventory & FBA**            | Stock balances, transfers, adjustments, returns audits, automated stock balancing, FBA analytics, and dispatch.                                     |
+| 🕒 **Attendance & Monitoring**    | Electron desktop agent for Windows/Mac, clock-in/out, idle and application tracking, live team monitoring, and AI-assisted daily analysis.          |
+| 💰 **Payroll & HR**               | Attendance-linked payroll, salary slips, incentives, KPI dashboards, meetings, announcements, and team chat.                                        |
+| ✅ **Task Management**             | Automated daily tasks, SOP checklists, health alerts, task assignments, and tracking.                                                               |
+| 🩺 **Cron Monitor**               | Failure classification, retry with backoff, checkpoints, duplicate-run locks, stuck-job watchdog, and alerts.                                       |
+| 🧾 **Purchase Master**            | Purchase orders, container planning, transit tracking, quality control, ledger, and forecast analysis.                                              |
+| 🎧 **Customer Care & QC**         | Issue boards for dispatch, listing, labels, shipping, and quality control with follow-ups and reports.                                              |
+| 🗂️ **Product & Catalog Masters** | Image, video, A+ content, bullet points, descriptions, variations, and barcode management.                                                          |
 
-## 🚀 Highlight Projects
+Other Projects
 
-### ✅ **1. WhatsApp-Based Messaging Software**
-**Tech:** Laravel, Node.js, MySQL, REST API  
-**Description:**  
-An advanced tool for sending bulk WhatsApp messages (text, images, videos) using multiple numbers while avoiding bans.
-
-- 👨‍💼 Dashboard to track total, failed, and processing messages in real-time
-- 🔁 Auto server restart to prevent downtime
-- 🧩 Contact group management with dynamic batching
-- 🌐 Built third-party APIs for external integration
-
----
-
-### ✅ **2. eCommerce Platform (School Supplies)**
-**Tech:** Laravel, MySQL, Razorpay, PhonePe, JavaScript, Bootstrap  
-**Description:**  
-A full-featured eCommerce system built from scratch, focused on school-specific items.
-
-- 🛒 Features: Add to Cart, Buy Now, Wishlist
-- 🔎 Filters: Category, school-wise listing without page reload
-- 💳 Payment Gateways: Razorpay & PhonePe
-- 🚚 Order tracking & shipping integration
-- 🔐 Secure user login and authentication
+- 💬 **WhatsApp Messaging Automation** — Laravel, Twilio, Gupshup.
+- 💼 **Job Portal** — Laravel, MySQL, role-based access.
+- 🛍️ **eCommerce Store** — Laravel, Razorpay, PhonePe.
+- 👥 **CRM & HRM** — Laravel, jQuery.
 
 ---
 
-### ✅ **3. CRM & ERP System**
-**Tech:** Laravel, PHP, MySQL  
-**Description:**  
-A business tool to manage employees, tasks, attendance, and leave workflows.
+🎓 Education
 
-- 📅 Attendance tracking with calendar view
-- 📝 Task assignment, status updates, and user roles
-- 🗂️ Leave approval system and record history
-- 📈 Built using MVC structure for maintainability
+**B.Tech in Electronics and Communication Engineering**
+
+Buddha Institute of Technology, Gorakhpur
+2016 – 2020*
 
 ---
 
-### ✅ **4. Hosting & Domain Manager**
-**Tech:** Laravel, MySQL  
-**Description:**  
-Internal tool to track hosting and domain expiry dates for clients.
+## 📫 Let's Connect
 
-- 📢 Auto reminders for renewals
-- 📋 Store hosting credentials securely
-- 🔧 Platform-based hosting tracking and reporting
+- 💼 LinkedIn: [Shobha Nishad](https://www.linkedin.com/in/shobha-nishad030599)
+- 📧 Email: [shobhanishad2122@gmail.com](mailto\:shobhanishad2122@gmail.com)
+
+⭐ Open to Laravel / Full Stack Development opportunities.
 
 ---
 
-### ✅ **5. Coupon-Based Video Subscription System**
-**Tech:** Laravel, MySQL, HTML, JS, Mail Integration  
-**Description:**  
-A smart coupon management platform linked with subscription plans.
-
-- 🎫 Time-limited and usage-limited coupon codes
-- 📩 Automated email invoices after purchase
-- 📊 User dashboard to view coupon history
-- 🔒 Coupon tied to subscription amount and platform
-
----
-
-### ✅ **6. Bulk SMS System**
-**Tech:** Laravel, AJAX, REST API  
-**Description:**  
-Tool for sending bulk SMS in batches using different APIs.
-
-- 🔁 API key rotation to prevent throttling
-- 📤 Batch-based sending with delay intervals
-- 📊 Campaign tracking by contact group
-
----
-
-### ✅ **7. Job Portal System**
-**Tech:** Laravel, MySQL, JavaScript, CSS  
-**Description:**  
-A job board where companies can post jobs and users can search based on interest.
-
-- 🔍 Role-based access: Admin, Company, Candidate
-- 🗃️ Categorized job listings and filters
-- 🕒 Auto-expiry and management of job postings
-
----
-
-## 🎓 Education
-
-**B.Tech in Electronics & Communication**  
-Buddha Institute of Technology, Gorakhpur (2016 – 2020)
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn – Shobha Nishad](https://www.linkedin.com/in/shobha-nishad030599)
-- ✉️ Email: shobhanishad2122@gmail.com
-- 💻 GitHub: [github.com/your-username](https://github.com/your-username)
-
----
-
-> 💬 *"I love solving real-world problems with clean and scalable code."*
+Building scalable applications, automating complex workflows, and solving real-world business problems through technology.*
